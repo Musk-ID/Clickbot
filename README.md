@@ -27,6 +27,6 @@ $ git clone https://github.com/Musk-ID/Clickbot
 $ cd Clickbot
 $ python bot.py
 ```
-- [X] Clickbot [here](https://freebtc.one/?r=3844)
+- [X] Clickbot [here](https://t.me/Ethereumclickbot?start=r05872346140)
 - [X] Applikasi httpcanary [here](https://bit.ly/3qQtCCt)
 
